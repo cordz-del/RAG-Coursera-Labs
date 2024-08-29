@@ -1,4 +1,0 @@
-git init
-git add /notebooks/my_lab_notebook.ipynb
-git commit -m "Lab Model Representation"
-git push -u origin main
